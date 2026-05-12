@@ -4,7 +4,7 @@ Not supposed to run.
 ## Be sure to create the `pgmoneta_mcp_users.conf` file with the appropriate users and passwords before running the commands below.
 
 ## To start pgmoneta mcp client (Uses llm)
-pgmoneta-mcp-client --conf pgmoneta-mcp.conf --users pgmoneta-mcp-users.conf
+pgmoneta-mcp-client --conf pgmoneta-mcp-client.conf --users pgmoneta-mcp-users.conf
 
 
 ## To start pgmoneta mcp server
